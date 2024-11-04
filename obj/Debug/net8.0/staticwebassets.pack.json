@@ -1,0 +1,453 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Maiboroda_Flowers\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Maiboroda_Flowers.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Maiboroda_Flowers.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\fonts\\Montserrat-Black.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat-Black.ttf"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\fonts\\Montserrat-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat-BlackItalic.ttf"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\fonts\\Montserrat-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat-Bold.ttf"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\fonts\\Montserrat-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat-BoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\fonts\\Montserrat-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat-ExtraBold.ttf"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\fonts\\Montserrat-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\fonts\\Montserrat-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat-ExtraLight.ttf"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\fonts\\Montserrat-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\fonts\\Montserrat-Italic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat-Italic.ttf"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\fonts\\Montserrat-Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat-Light.ttf"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\fonts\\Montserrat-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat-LightItalic.ttf"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\fonts\\Montserrat-Medium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat-Medium.ttf"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\fonts\\Montserrat-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat-MediumItalic.ttf"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\fonts\\Montserrat-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat-Regular.ttf"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\fonts\\Montserrat-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat-SemiBold.ttf"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\fonts\\Montserrat-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\fonts\\Montserrat-Thin.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat-Thin.ttf"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\fonts\\Montserrat-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat-ThinItalic.ttf"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\fonts\\OpenSans-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans-Bold.ttf"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\fonts\\OpenSans-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans-BoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\fonts\\OpenSans-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans-ExtraBold.ttf"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\fonts\\OpenSans-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\fonts\\OpenSans-Italic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans-Italic.ttf"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\fonts\\OpenSans-Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans-Light.ttf"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\fonts\\OpenSans-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans-LightItalic.ttf"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\fonts\\OpenSans-Medium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans-Medium.ttf"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\fonts\\OpenSans-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans-MediumItalic.ttf"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\fonts\\OpenSans-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans-Regular.ttf"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\fonts\\OpenSans-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans-SemiBold.ttf"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\fonts\\OpenSans-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\fonts\\montserrat.ttf",
+      "PackagePath": "staticwebassets\\fonts\\montserrat.ttf"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\img\\bg.svg",
+      "PackagePath": "staticwebassets\\img\\bg.svg"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\img\\icon.png",
+      "PackagePath": "staticwebassets\\img\\icon.png"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\img\\menu-item.png",
+      "PackagePath": "staticwebassets\\img\\menu-item.png"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\scss\\bloks\\create-order.scss",
+      "PackagePath": "staticwebassets\\scss\\bloks\\create-order.scss"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\scss\\bloks\\index.scss",
+      "PackagePath": "staticwebassets\\scss\\bloks\\index.scss"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\scss\\bloks\\menu.scss",
+      "PackagePath": "staticwebassets\\scss\\bloks\\menu.scss"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\scss\\bloks\\order-item.scss",
+      "PackagePath": "staticwebassets\\scss\\bloks\\order-item.scss"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\scss\\bloks\\orders.scss",
+      "PackagePath": "staticwebassets\\scss\\bloks\\orders.scss"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\scss\\bloks\\shared.scss",
+      "PackagePath": "staticwebassets\\scss\\bloks\\shared.scss"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\scss\\fonts.scss",
+      "PackagePath": "staticwebassets\\scss\\fonts.scss"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\scss\\normalize.scss",
+      "PackagePath": "staticwebassets\\scss\\normalize.scss"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\scss\\style.css",
+      "PackagePath": "staticwebassets\\scss\\style.css"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\scss\\style.min.css",
+      "PackagePath": "staticwebassets\\scss\\style.min.css"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\scss\\style.scss"
+    },
+    {
+      "Id": "D:\\Maiboroda_Flowers\\wwwroot\\scss\\variables.scss",
+      "PackagePath": "staticwebassets\\scss\\variables.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Maiboroda_Flowers.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Maiboroda_Flowers.props",
+      "PackagePath": "build\\Maiboroda_Flowers.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Maiboroda_Flowers.props",
+      "PackagePath": "buildMultiTargeting\\Maiboroda_Flowers.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Maiboroda_Flowers.props",
+      "PackagePath": "buildTransitive\\Maiboroda_Flowers.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

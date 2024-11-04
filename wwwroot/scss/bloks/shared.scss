@@ -1,0 +1,97 @@
+﻿body {
+    background: #020200 url("../../img/bg.svg") no-repeat right center;
+    background-size: contain;
+    color: white;
+    font-family: "Montserrat";
+}
+
+body::-webkit-scrollbar {
+    width: 12px; /* ширина scrollbar */
+}
+
+body::-webkit-scrollbar-track {
+    background: #881C33; /* цвет дорожки */
+}
+
+body::-webkit-scrollbar-thumb {
+    background-color: rgba(190,73,95,.8); /* цвет плашки */
+    border-radius: 20px; /* закругления плашки */
+    border: transparent solid rgba(190,73,95,.8); /* padding вокруг плашки */
+}
+
+.container {
+    padding: 0 70px !important;
+    max-width: none !important;
+}
+
+.container-footer {
+    padding-left: 70px;
+    padding-bottom: 75px;
+
+    p {
+        margin: 0;
+    }
+}
+
+.breadcrumb {
+    font-size: 18px;
+    margin-top: 60px;
+    margin-bottom: 35px;
+
+    a {
+        color: white;
+        font-weight: 100;
+
+
+        &:hover, &:focus {
+            color: white;
+            text-decoration: none;
+        }
+    }
+
+    .active {
+        text-decoration: none;
+        font-weight: 400;
+    }
+}
+
+.primary-btn {
+    font-size: 25px;
+    background-color: #BE495F;
+    border-color: #BE495F;
+    border-radius: 5px;
+    padding: 15px 24px;
+    text-transform: uppercase;
+    color: white;
+    box-shadow: none;
+    text-decoration: none;
+
+
+    &:hover, &:focus {
+        background-color: #923c4c;
+        border-color: #923c4c;
+        border-radius: 5px;
+        color: white;
+    }
+}
+
+.secondary-btn {
+    font-size: 19px;
+    background-color: #BE495F;
+    border-color: #BE495F;
+    border-radius: 5px;
+    padding: 12px 20px;
+    text-transform: uppercase;
+    color: white;
+    box-shadow: none;
+    text-decoration: none;
+    margin-top: 30px;
+
+
+    &:hover, &:focus {
+        background-color: #923c4c;
+        border-color: #923c4c;
+        border-radius: 5px;
+        color: white;
+    }
+}

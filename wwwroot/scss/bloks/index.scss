@@ -1,0 +1,35 @@
+﻿.content {
+    margin-top: 220px;
+}
+
+.slogan-text {
+    display: flex;
+    flex-direction: column;
+    font-family: "Montserrat";
+    font-weight: 100;
+
+    p {
+        margin: 0;
+        line-height: normal;
+
+        &:first-child {
+            font-size: 50px;
+        }
+
+        &:last-child {
+            font-size: 70px;
+        }
+    }
+}
+
+.block-text {
+    font-size: 30px;
+    font-weight: 100;
+    line-height: 40px;
+    margin-top: 65px;
+    margin-bottom: 65px;
+}
+
+.btn-block {
+    margin-bottom: 200px;
+}

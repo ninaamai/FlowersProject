@@ -1,0 +1,72 @@
+﻿@{
+    ViewData["Title"] = "Оформление заказа";
+}
+
+<ul class="breadcrumb">
+    <li class="breadcrumb-item"><a asp-controller="Home" asp-action="Index">Главная</a></li>
+    <li class="breadcrumb-item">
+        <a class="active">Оформление заказа</a>
+    </li>
+</ul>
+
+<div class="create-order-section">
+    <h1>Создание нового заказа</h1>
+    <div class="create-order-content">
+        <form name="CreateOrderForm">
+            <input name="Id" hidden />
+            <div class="form-field">
+                <label class="main-label">Город отправителя</label>
+                <input class="form-input" name="CitySender" required />
+            </div>
+            <div class="form-field">
+                <label class="main-label">Адрес отправителя</label>
+                <input class="form-input" name="AddressSender" required />
+            </div>
+            <div class="form-field">
+                <label class="main-label">Город получателя</label>
+                <input class="form-input" name="CityRecipient" required />
+            </div>
+            <div class="form-field">
+                <label class="main-label">Адрес получателя</label>
+                <input class="form-input" name="AddressRecipient" required />
+            </div>
+            <div class="form-field">
+                <label class="main-label">Вес заказа</label>
+                <input class="form-input" type="number" name="ProductWeight" required />
+            </div>
+            <div class="form-field">
+                <label class="main-label">Дата забора заказа</label>
+                <input class="form-input date-picker" type="date" name="DateReceipt" required />
+            </div>
+            <button class="secondary-btn" type="button" onclick="onSaveClick()">Сохранить</button>
+        </form>
+    </div>
+</div>
+
+<script>
+    function onSaveClick() {
+        const data = {
+            id: -1,
+            citySender: $("[name='CitySender']").val(),
+            addressSender: $("[name='AddressSender']").val(),
+            cityRecipient: $("[name='CityRecipient']").val(),
+            addressRecipient: $("[name='AddressRecipient']").val(),
+            productWeight: $("[name='ProductWeight']").val(),
+            dateReceipt: $("[name='DateReceipt']").val()
+        };
+
+        $.ajax({
+            method: "POST",
+            url: '@Url.Action("CreateOrder_AddNewItem", "Home")',
+            data: data,
+            dataType: "json",
+            complete: function () {
+                $('form[name=CreateOrderForm]').trigger('reset');
+                alert("Ваш заказ создан!");
+                // setTimeout(function () {
+                //     alert("Ваш заказ создан!");
+                // }, 500);
+            }
+        });
+    }
+</script>

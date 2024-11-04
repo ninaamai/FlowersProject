@@ -1,0 +1,33 @@
+﻿@model Order
+@{
+    ViewData["Title"] = "Заказ";
+}
+
+
+<ul class="breadcrumb">
+    <li class="breadcrumb-item"><a asp-controller="Home" asp-action="Index">Главная</a></li>
+    <li class="breadcrumb-item"><a asp-controller="Home" asp-action="Orders">Мои заказы</a></li>
+    <li class="breadcrumb-item">
+        <a class="active">Мои заказы</a>
+    </li>
+</ul>
+
+<div class="order-item-section">
+    @if (Model != null)
+    {
+        <h1>Информация по заказу №@Model.Id</h1>
+        <div class="order-item-content">
+            <div class="order-item">
+                <span>№ @Model.Id</span>
+                <p>Город отправителя: <span>@Model.CitySender</span></p>
+                <p>Адрес отправителя: <span>@Model.AddressSender</span></p>
+                <p>Город получателя: <span>@Model.CitySender</span></p>
+                <p>Адрес получателя: <span>@Model.AddressSender</span></p>
+                <p>Вес товара: <span>@Model.ProductWeight кг</span></p>
+                <p>Дата получения: <span>@Model.DateReceipt</span></p>
+
+            </div>
+        </div>
+    }
+   
+</div>
